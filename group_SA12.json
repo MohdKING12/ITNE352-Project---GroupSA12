@@ -1,0 +1,5115 @@
+[
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": "F9",
+            "delay": null,
+            "scheduled": "2025-05-14T20:50:00+00:00",
+            "estimated": "2025-05-14T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T02:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2440",
+            "iata": "EK2440",
+            "icao": "UAE2440",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "985",
+                "flight_iata": "fz985",
+                "flight_icao": "fdb985"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": "F9",
+            "delay": null,
+            "scheduled": "2025-05-14T20:50:00+00:00",
+            "estimated": "2025-05-14T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T02:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "985",
+            "iata": "FZ985",
+            "icao": "FDB985",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": null,
+            "gate": null,
+            "delay": 40,
+            "scheduled": "2025-05-14T23:15:00+00:00",
+            "estimated": "2025-05-14T23:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "559",
+            "iata": "DP559",
+            "icao": "PBD559",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T21:00:00+00:00",
+            "estimated": "2025-05-14T21:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Corendon Air",
+            "iata": "XC",
+            "icao": "CAI"
+        },
+        "flight": {
+            "number": "8065",
+            "iata": "XC8065",
+            "icao": "CAI8065",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "108",
+            "delay": null,
+            "scheduled": "2025-05-14T21:55:00+00:00",
+            "estimated": "2025-05-14T21:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T02:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "NordStar Airlines",
+            "iata": "Y7",
+            "icao": "TYA"
+        },
+        "flight": {
+            "number": "1085",
+            "iata": "Y71085",
+            "icao": "TYA1085",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2025-05-14T22:50:00+00:00",
+            "estimated": "2025-05-14T22:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "253",
+            "iata": "N4253",
+            "icao": "NWS253",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": "42",
+            "delay": null,
+            "scheduled": "2025-05-14T23:05:00+00:00",
+            "estimated": "2025-05-14T23:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6411",
+            "iata": "FV6411",
+            "icao": "SDM6411",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "71",
+            "delay": null,
+            "scheduled": "2025-05-14T23:45:00+00:00",
+            "estimated": "2025-05-14T23:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "241",
+            "iata": "IO241",
+            "icao": "IAE241",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Vnukovo",
+            "timezone": "Europe/Moscow",
+            "iata": "VKO",
+            "icao": "UUWW",
+            "terminal": "A",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T23:40:00+00:00",
+            "estimated": "2025-05-14T23:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T03:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "439",
+            "iata": "DP439",
+            "icao": "PBD439",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sharm el-Sheikh International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "SSH",
+            "icao": "HESH",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T14:35:00+00:00",
+            "estimated": "2025-05-14T14:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "5576",
+            "iata": "SU5576",
+            "icao": "AFL5576",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73211",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151DFB"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:36+00:00",
+            "latitude": 39.7956,
+            "longitude": 32.6261,
+            "altitude": 10363.2,
+            "direction": 26,
+            "speed_horizontal": 885.256,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": "572",
+            "delay": 20,
+            "scheduled": "2025-05-14T18:15:00+00:00",
+            "estimated": "2025-05-14T18:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T00:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Azur Air",
+            "iata": "ZF",
+            "icao": "AZV"
+        },
+        "flight": {
+            "number": "1028",
+            "iata": "ZF1028",
+            "icao": "AZV1028",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "104",
+            "delay": null,
+            "scheduled": "2025-05-14T12:55:00+00:00",
+            "estimated": "2025-05-14T12:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B6",
+            "scheduled": "2025-05-14T17:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "6535",
+            "iata": "SU6535",
+            "icao": "AFL6535",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89101",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C0D"
+        },
+        "live": {
+            "updated": "2025-05-14T12:00:44+00:00",
+            "latitude": 54.4522,
+            "longitude": 55.1281,
+            "altitude": 5974.08,
+            "direction": 75,
+            "speed_horizontal": 674.128,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sharjah",
+            "timezone": "Asia/Dubai",
+            "iata": "SHJ",
+            "icao": "OMSJ",
+            "terminal": null,
+            "gate": "23",
+            "delay": 50,
+            "scheduled": "2025-05-14T18:55:00+00:00",
+            "estimated": "2025-05-14T18:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T00:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "931",
+            "iata": "G9931",
+            "icao": "ABY931",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Kogalym International",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "KGP",
+            "icao": "USRK",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T20:00:00+00:00",
+            "estimated": "2025-05-14T20:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "678",
+            "iata": "UT678",
+            "icao": "UTA678",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "120",
+            "delay": null,
+            "scheduled": "2025-05-14T20:50:00+00:00",
+            "estimated": "2025-05-14T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B6",
+            "scheduled": "2025-05-15T01:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1260",
+            "iata": "SU1260",
+            "icao": "AFL1260",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T18:00:00+00:00",
+            "estimated": "2025-05-14T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "593",
+            "iata": "5N593",
+            "icao": "AUL593",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T11:05:00+00:00",
+            "estimated": "2025-05-14T11:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T16:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "6605",
+            "iata": "SU6605",
+            "icao": "AFL6605",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73192",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151DE8"
+        },
+        "live": {
+            "updated": "2025-05-14T11:02:22+00:00",
+            "latitude": 54.2685,
+            "longitude": 55.295,
+            "altitude": 9517.38,
+            "direction": 46,
+            "speed_horizontal": 822.288,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Krasnojarsk",
+            "timezone": "Asia/Krasnoyarsk",
+            "iata": "KJA",
+            "icao": "UNKL",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T13:00:00+00:00",
+            "estimated": "2025-05-14T13:00:00+00:00",
+            "actual": "2025-05-14T13:00:00+00:00",
+            "estimated_runway": "2025-05-14T13:00:00+00:00",
+            "actual_runway": "2025-05-14T13:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T14:40:00+00:00",
+            "delay": 11,
+            "estimated": "2025-05-14T14:51:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        },
+        "flight": {
+            "number": "4042",
+            "iata": "A44042",
+            "icao": "AZO4042",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89139",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C33"
+        },
+        "live": {
+            "updated": "2025-05-14T09:56:23+00:00",
+            "latitude": 54.8943,
+            "longitude": 55.8333,
+            "altitude": 1981.2,
+            "direction": 199,
+            "speed_horizontal": 485.224,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Novy Urengoy",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NUX",
+            "icao": "USMU",
+            "terminal": null,
+            "gate": null,
+            "delay": 6,
+            "scheduled": "2025-05-14T09:50:00+00:00",
+            "estimated": "2025-05-14T09:50:00+00:00",
+            "actual": "2025-05-14T09:55:00+00:00",
+            "estimated_runway": "2025-05-14T09:55:00+00:00",
+            "actual_runway": "2025-05-14T09:55:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T12:20:00+00:00",
+            "delay": 11,
+            "estimated": "2025-05-14T12:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "218",
+            "iata": "IO218",
+            "icao": "IAE218",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89077",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF5"
+        },
+        "live": {
+            "updated": "2025-05-14T07:37:20+00:00",
+            "latitude": 54.9379,
+            "longitude": 55.5589,
+            "altitude": 2057.4,
+            "direction": 239,
+            "speed_horizontal": 468.556,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": "21",
+            "delay": 18,
+            "scheduled": "2025-05-14T14:10:00+00:00",
+            "estimated": "2025-05-14T14:10:00+00:00",
+            "actual": "2025-05-14T14:28:00+00:00",
+            "estimated_runway": "2025-05-14T14:28:00+00:00",
+            "actual_runway": "2025-05-14T14:28:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T18:50:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T18:43:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "255",
+            "iata": "N4255",
+            "icao": "NWS255",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73326",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "151E6E"
+        },
+        "live": {
+            "updated": "2025-05-14T13:46:32+00:00",
+            "latitude": 54.867,
+            "longitude": 55.3196,
+            "altitude": 2377.44,
+            "direction": 126,
+            "speed_horizontal": 500.04,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": "F3B",
+            "delay": 2,
+            "scheduled": "2025-05-14T03:40:00+00:00",
+            "estimated": "2025-05-14T03:40:00+00:00",
+            "actual": "2025-05-14T03:41:00+00:00",
+            "estimated_runway": "2025-05-14T03:41:00+00:00",
+            "actual_runway": "2025-05-14T03:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T10:00:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T09:29:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        },
+        "flight": {
+            "number": "4640",
+            "iata": "WZ4640",
+            "icao": "RWZ4640",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "117",
+            "delay": 2,
+            "scheduled": "2025-05-14T06:40:00+00:00",
+            "estimated": "2025-05-14T06:40:00+00:00",
+            "actual": "2025-05-14T06:41:00+00:00",
+            "estimated_runway": "2025-05-14T06:41:00+00:00",
+            "actual_runway": "2025-05-14T06:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B3",
+            "scheduled": "2025-05-14T10:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T10:18:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1262",
+            "iata": "SU1262",
+            "icao": "AFL1262",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Khrabrovo",
+            "timezone": "Europe/Kaliningrad",
+            "iata": "KGD",
+            "icao": "UMKK",
+            "terminal": "A",
+            "gate": null,
+            "delay": 10,
+            "scheduled": "2025-05-14T14:40:00+00:00",
+            "estimated": "2025-05-14T14:40:00+00:00",
+            "actual": "2025-05-14T14:50:00+00:00",
+            "estimated_runway": "2025-05-14T14:50:00+00:00",
+            "actual_runway": "2025-05-14T14:50:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T21:20:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T21:17:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "851",
+            "iata": "N4851",
+            "icao": "NWS851",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73325",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "151E6D"
+        },
+        "live": {
+            "updated": "2025-05-14T14:59:58+00:00",
+            "latitude": 59.1694,
+            "longitude": 38.5559,
+            "altitude": 10660.4,
+            "direction": 0,
+            "speed_horizontal": 9.252,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "102",
+            "delay": 12,
+            "scheduled": "2025-05-14T15:50:00+00:00",
+            "estimated": "2025-05-14T15:50:00+00:00",
+            "actual": "2025-05-14T16:02:00+00:00",
+            "estimated_runway": "2025-05-14T16:02:00+00:00",
+            "actual_runway": "2025-05-14T16:02:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B1",
+            "scheduled": "2025-05-14T19:55:00+00:00",
+            "delay": 3,
+            "estimated": "2025-05-14T19:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1258",
+            "iata": "SU1258",
+            "icao": "AFL1258",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73768",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "152028"
+        },
+        "live": {
+            "updated": "2025-05-14T14:53:31+00:00",
+            "latitude": 54.6443,
+            "longitude": 54.9416,
+            "altitude": 9509.76,
+            "direction": 93,
+            "speed_horizontal": 555.6,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Kazan",
+            "timezone": "Europe/Moscow",
+            "iata": "KZN",
+            "icao": "UWKD",
+            "terminal": "1 2",
+            "gate": "11",
+            "delay": null,
+            "scheduled": "2025-05-14T14:30:00+00:00",
+            "estimated": "2025-05-14T14:30:00+00:00",
+            "actual": "2025-05-14T14:17:00+00:00",
+            "estimated_runway": "2025-05-14T14:17:00+00:00",
+            "actual_runway": "2025-05-14T14:17:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T18:05:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T17:42:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "134",
+            "iata": "UT134",
+            "icao": "UTA134",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "23",
+            "delay": 6,
+            "scheduled": "2025-05-14T16:50:00+00:00",
+            "estimated": "2025-05-14T16:50:00+00:00",
+            "actual": "2025-05-14T16:56:00+00:00",
+            "estimated_runway": "2025-05-14T16:56:00+00:00",
+            "actual_runway": "2025-05-14T16:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T20:55:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T20:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "1137",
+            "iata": "S71137",
+            "icao": "SBI1137",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73183",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151DDF"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:27+00:00",
+            "latitude": 55.6026,
+            "longitude": 48.5843,
+            "altitude": 10668,
+            "direction": 113,
+            "speed_horizontal": 748.208,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": "38",
+            "delay": 9,
+            "scheduled": "2025-05-14T16:40:00+00:00",
+            "estimated": "2025-05-14T16:40:00+00:00",
+            "actual": "2025-05-14T16:49:00+00:00",
+            "estimated_runway": "2025-05-14T16:49:00+00:00",
+            "actual_runway": "2025-05-14T16:49:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T21:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T21:02:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6413",
+            "iata": "FV6413",
+            "icao": "SDM6413",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Igarka",
+            "timezone": "Asia/Krasnoyarsk",
+            "iata": "IAA",
+            "icao": "UOII",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T18:45:00+00:00",
+            "estimated": "2025-05-14T18:45:00+00:00",
+            "actual": "2025-05-14T18:45:00+00:00",
+            "estimated_runway": "2025-05-14T18:45:00+00:00",
+            "actual_runway": "2025-05-14T18:45:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T20:05:00+00:00",
+            "delay": 3,
+            "estimated": "2025-05-14T20:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6410",
+            "iata": "UT6410",
+            "icao": "UTA6410",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73068",
+            "iata": "B734",
+            "icao": "B734",
+            "icao24": "151D6C"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:27+00:00",
+            "latitude": 55.2241,
+            "longitude": 56.7505,
+            "altitude": 4716.78,
+            "direction": 244,
+            "speed_horizontal": 520.412,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Namangan",
+            "timezone": "Asia/Tashkent",
+            "iata": "NMA",
+            "icao": "UTFN",
+            "terminal": null,
+            "gate": null,
+            "delay": 3,
+            "scheduled": "2025-05-14T19:20:00+00:00",
+            "estimated": "2025-05-14T19:20:00+00:00",
+            "actual": "2025-05-14T19:22:00+00:00",
+            "estimated_runway": "2025-05-14T19:22:00+00:00",
+            "actual_runway": "2025-05-14T19:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T22:16:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "4378",
+            "iata": "S74378",
+            "icao": "SBI4378",
+            "codeshared": {
+                "airline_name": "uzbekistan airways",
+                "airline_iata": "hy",
+                "airline_icao": "uzb",
+                "flight_number": "9857",
+                "flight_iata": "hy9857",
+                "flight_icao": "uzb9857"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Namangan",
+            "timezone": "Asia/Tashkent",
+            "iata": "NMA",
+            "icao": "UTFN",
+            "terminal": null,
+            "gate": null,
+            "delay": 3,
+            "scheduled": "2025-05-14T19:20:00+00:00",
+            "estimated": "2025-05-14T19:20:00+00:00",
+            "actual": "2025-05-14T19:22:00+00:00",
+            "estimated_runway": "2025-05-14T19:22:00+00:00",
+            "actual_runway": "2025-05-14T19:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T22:16:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        },
+        "flight": {
+            "number": "9857",
+            "iata": "HY9857",
+            "icao": "UZB9857",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "UK32014",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "507C3D"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:30+00:00",
+            "latitude": 42.087,
+            "longitude": 67.8476,
+            "altitude": 10553.7,
+            "direction": 314,
+            "speed_horizontal": 766.728,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T11:05:00+00:00",
+            "estimated": "2025-05-14T11:05:00+00:00",
+            "actual": "2025-05-14T11:05:00+00:00",
+            "estimated_runway": "2025-05-14T11:05:00+00:00",
+            "actual_runway": "2025-05-14T11:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T16:35:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T16:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6605",
+            "iata": "FV6605",
+            "icao": "SDM6605",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "104",
+            "delay": 12,
+            "scheduled": "2025-05-14T12:55:00+00:00",
+            "estimated": "2025-05-14T12:55:00+00:00",
+            "actual": "2025-05-14T13:07:00+00:00",
+            "estimated_runway": "2025-05-14T13:07:00+00:00",
+            "actual_runway": "2025-05-14T13:07:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B6",
+            "scheduled": "2025-05-14T17:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T17:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6535",
+            "iata": "FV6535",
+            "icao": "SDM6535",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "cancelled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T14:30:00+00:00",
+            "estimated": "2025-05-14T14:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T18:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1232",
+            "iata": "SU1232",
+            "icao": "AFL1232",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Koltsovo International",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SVX",
+            "icao": "USSS",
+            "terminal": null,
+            "gate": "50",
+            "delay": null,
+            "scheduled": "2025-05-14T11:30:00+00:00",
+            "estimated": "2025-05-14T11:30:00+00:00",
+            "actual": "2025-05-14T11:30:00+00:00",
+            "estimated_runway": "2025-05-14T11:30:00+00:00",
+            "actual_runway": "2025-05-14T11:30:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T13:05:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T12:37:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "105",
+            "iata": "UT105",
+            "icao": "UTA105",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-67692",
+            "iata": "AT75",
+            "icao": "AT75",
+            "icao24": "15086C"
+        },
+        "live": {
+            "updated": "2025-05-14T07:37:20+00:00",
+            "latitude": 54.9841,
+            "longitude": 56.1157,
+            "altitude": 3307.08,
+            "direction": 245,
+            "speed_horizontal": 431.516,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sharm el-Sheikh International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "SSH",
+            "icao": "HESH",
+            "terminal": "1",
+            "gate": null,
+            "delay": 80,
+            "scheduled": "2025-05-14T14:35:00+00:00",
+            "estimated": "2025-05-14T14:35:00+00:00",
+            "actual": "2025-05-14T15:55:00+00:00",
+            "estimated_runway": "2025-05-14T15:55:00+00:00",
+            "actual_runway": "2025-05-14T15:55:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:10:00+00:00",
+            "delay": 53,
+            "estimated": "2025-05-14T23:03:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "5576",
+            "iata": "FV5576",
+            "icao": "SDM5576",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Koltsovo International",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SVX",
+            "icao": "USSS",
+            "terminal": null,
+            "gate": "15",
+            "delay": null,
+            "scheduled": "2025-05-14T22:20:00+00:00",
+            "estimated": "2025-05-14T22:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T23:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        },
+        "flight": {
+            "number": "1025",
+            "iata": "WZ1025",
+            "icao": "RWZ1025",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Novy Urengoy",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NUX",
+            "icao": "USMU",
+            "terminal": null,
+            "gate": null,
+            "delay": 115,
+            "scheduled": "2025-05-14T16:15:00+00:00",
+            "estimated": "2025-05-14T16:15:00+00:00",
+            "actual": "2025-05-14T18:23:00+00:00",
+            "estimated_runway": "2025-05-14T18:23:00+00:00",
+            "actual_runway": "2025-05-14T18:23:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T19:05:00+00:00",
+            "delay": 108,
+            "estimated": "2025-05-14T20:53:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "186",
+            "iata": "UT186",
+            "icao": "UTA186",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73486",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151F0E"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:30+00:00",
+            "latitude": 57.8797,
+            "longitude": 63.0182,
+            "altitude": 10972.8,
+            "direction": 232,
+            "speed_horizontal": 735.244,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Vnukovo",
+            "timezone": "Europe/Moscow",
+            "iata": "VKO",
+            "icao": "UUWW",
+            "terminal": "A",
+            "gate": "17",
+            "delay": null,
+            "scheduled": "2025-05-14T19:10:00+00:00",
+            "estimated": "2025-05-14T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T23:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "591",
+            "iata": "UT591",
+            "icao": "UTA591",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T02:45:00+00:00",
+            "estimated": "2025-05-14T02:45:00+00:00",
+            "actual": "2025-05-14T02:43:00+00:00",
+            "estimated_runway": "2025-05-14T02:43:00+00:00",
+            "actual_runway": "2025-05-14T02:43:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T04:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T04:45:00+00:00",
+            "actual": "2025-05-14T04:43:00+00:00",
+            "estimated_runway": "2025-05-14T04:43:00+00:00",
+            "actual_runway": "2025-05-14T04:43:00+00:00"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "222",
+            "iata": "IO222",
+            "icao": "IAE222",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Khanty-Mansiysk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "HMA",
+            "icao": "USHH",
+            "terminal": null,
+            "gate": null,
+            "delay": 13,
+            "scheduled": "2025-05-14T03:00:00+00:00",
+            "estimated": "2025-05-14T03:00:00+00:00",
+            "actual": "2025-05-14T03:13:00+00:00",
+            "estimated_runway": "2025-05-14T03:13:00+00:00",
+            "actual_runway": "2025-05-14T03:13:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T04:55:00+00:00",
+            "delay": 4,
+            "estimated": "2025-05-14T04:55:00+00:00",
+            "actual": "2025-05-14T04:59:00+00:00",
+            "estimated_runway": "2025-05-14T04:59:00+00:00",
+            "actual_runway": "2025-05-14T04:59:00+00:00"
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "iata": "U6",
+            "icao": "SVR"
+        },
+        "flight": {
+            "number": "9502",
+            "iata": "U69502",
+            "icao": "SVR9502",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73792",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "152040"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Vnukovo",
+            "timezone": "Europe/Moscow",
+            "iata": "VKO",
+            "icao": "UUWW",
+            "terminal": "A",
+            "gate": "11A",
+            "delay": null,
+            "scheduled": "2025-05-14T00:45:00+00:00",
+            "estimated": "2025-05-14T00:45:00+00:00",
+            "actual": "2025-05-14T00:13:00+00:00",
+            "estimated_runway": "2025-05-14T00:13:00+00:00",
+            "actual_runway": "2025-05-14T00:13:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T04:50:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T03:59:00+00:00",
+            "actual": "2025-05-14T03:50:00+00:00",
+            "estimated_runway": "2025-05-14T03:50:00+00:00",
+            "actual_runway": "2025-05-14T03:50:00+00:00"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "435",
+            "iata": "DP435",
+            "icao": "PBD435",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Vnukovo",
+            "timezone": "Europe/Moscow",
+            "iata": "VKO",
+            "icao": "UUWW",
+            "terminal": "A",
+            "gate": "13",
+            "delay": 14,
+            "scheduled": "2025-05-14T01:40:00+00:00",
+            "estimated": "2025-05-14T01:40:00+00:00",
+            "actual": "2025-05-14T01:53:00+00:00",
+            "estimated_runway": "2025-05-14T01:53:00+00:00",
+            "actual_runway": "2025-05-14T01:53:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T05:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T05:39:00+00:00",
+            "actual": "2025-05-14T05:35:00+00:00",
+            "estimated_runway": "2025-05-14T05:35:00+00:00",
+            "actual_runway": "2025-05-14T05:35:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "363",
+            "iata": "UT363",
+            "icao": "UTA363",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Tolmachevo",
+            "timezone": "Asia/Novosibirsk",
+            "iata": "OVB",
+            "icao": "UNNT",
+            "terminal": "C",
+            "gate": "16",
+            "delay": 10,
+            "scheduled": "2025-05-14T14:05:00+00:00",
+            "estimated": "2025-05-14T14:05:00+00:00",
+            "actual": "2025-05-14T14:15:00+00:00",
+            "estimated_runway": "2025-05-14T14:15:00+00:00",
+            "actual_runway": "2025-05-14T14:15:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T14:50:00+00:00",
+            "delay": 12,
+            "estimated": "2025-05-14T14:55:00+00:00",
+            "actual": "2025-05-14T15:02:00+00:00",
+            "estimated_runway": "2025-05-14T15:02:00+00:00",
+            "actual_runway": "2025-05-14T15:02:00+00:00"
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "5045",
+            "iata": "S75045",
+            "icao": "SBI5045",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73437",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "151EDD"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Novy Urengoy",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NUX",
+            "icao": "USMU",
+            "terminal": null,
+            "gate": null,
+            "delay": 1,
+            "scheduled": "2025-05-14T10:40:00+00:00",
+            "estimated": "2025-05-14T10:40:00+00:00",
+            "actual": "2025-05-14T10:40:00+00:00",
+            "estimated_runway": "2025-05-14T10:40:00+00:00",
+            "actual_runway": "2025-05-14T10:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T13:20:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T13:10:00+00:00",
+            "actual": "2025-05-14T13:07:00+00:00",
+            "estimated_runway": "2025-05-14T13:07:00+00:00",
+            "actual_runway": "2025-05-14T13:07:00+00:00"
+        },
+        "airline": {
+            "name": "Yamal Airlines",
+            "iata": "YC",
+            "icao": "LLM"
+        },
+        "flight": {
+            "number": "187",
+            "iata": "YC187",
+            "icao": "LLM187",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89073",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Nojabrxsk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NOJ",
+            "icao": "USRO",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T12:30:00+00:00",
+            "estimated": "2025-05-14T12:30:00+00:00",
+            "actual": "2025-05-14T12:30:00+00:00",
+            "estimated_runway": "2025-05-14T12:30:00+00:00",
+            "actual_runway": "2025-05-14T12:30:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T15:05:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T14:44:00+00:00",
+            "actual": "2025-05-14T14:46:00+00:00",
+            "estimated_runway": "2025-05-14T14:46:00+00:00",
+            "actual_runway": "2025-05-14T14:46:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6488",
+            "iata": "UT6488",
+            "icao": "UTA6488",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73065",
+            "iata": "B734",
+            "icao": "B734",
+            "icao24": "151D69"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": "270",
+            "delay": null,
+            "scheduled": "2025-05-14T12:45:00+00:00",
+            "estimated": "2025-05-14T12:45:00+00:00",
+            "actual": "2025-05-14T12:37:00+00:00",
+            "estimated_runway": "2025-05-14T12:37:00+00:00",
+            "actual_runway": "2025-05-14T12:37:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T19:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T18:28:00+00:00",
+            "actual": "2025-05-14T18:35:00+00:00",
+            "estimated_runway": "2025-05-14T18:35:00+00:00",
+            "actual_runway": "2025-05-14T18:35:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "799",
+            "iata": "SU799",
+            "icao": "AFL799",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73122",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151DA2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Nizhnevartovsk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NJC",
+            "icao": "USNN",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T10:15:00+00:00",
+            "estimated": "2025-05-14T10:15:00+00:00",
+            "actual": "2025-05-14T10:13:00+00:00",
+            "estimated_runway": "2025-05-14T10:13:00+00:00",
+            "actual_runway": "2025-05-14T10:13:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T12:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T12:22:00+00:00",
+            "actual": "2025-05-14T12:24:00+00:00",
+            "estimated_runway": "2025-05-14T12:24:00+00:00",
+            "actual_runway": "2025-05-14T12:24:00+00:00"
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "iata": "U6",
+            "icao": "SVR"
+        },
+        "flight": {
+            "number": "9896",
+            "iata": "U69896",
+            "icao": "SVR9896",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73792",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "152040"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": "3",
+            "delay": null,
+            "scheduled": "2025-05-14T01:45:00+00:00",
+            "estimated": "2025-05-14T01:45:00+00:00",
+            "actual": "2025-05-14T01:39:00+00:00",
+            "estimated_runway": "2025-05-14T01:39:00+00:00",
+            "actual_runway": "2025-05-14T01:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T06:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T05:55:00+00:00",
+            "actual": "2025-05-14T05:55:00+00:00",
+            "estimated_runway": "2025-05-14T05:55:00+00:00",
+            "actual_runway": "2025-05-14T05:55:00+00:00"
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "591",
+            "iata": "5N591",
+            "icao": "AUL591",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T09:55:00+00:00",
+            "estimated": "2025-05-14T09:55:00+00:00",
+            "actual": "2025-05-14T09:50:00+00:00",
+            "estimated_runway": "2025-05-14T09:50:00+00:00",
+            "actual_runway": "2025-05-14T09:50:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T15:10:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T14:38:00+00:00",
+            "actual": "2025-05-14T14:42:00+00:00",
+            "estimated_runway": "2025-05-14T14:42:00+00:00",
+            "actual_runway": "2025-05-14T14:42:00+00:00"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "343",
+            "iata": "DP343",
+            "icao": "PBD343",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73296",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151E50"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 15,
+            "scheduled": "2025-05-14T08:05:00+00:00",
+            "estimated": "2025-05-14T08:05:00+00:00",
+            "actual": "2025-05-14T08:19:00+00:00",
+            "estimated_runway": "2025-05-14T08:19:00+00:00",
+            "actual_runway": "2025-05-14T08:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T10:25:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T10:15:00+00:00",
+            "actual": "2025-05-14T10:15:00+00:00",
+            "estimated_runway": "2025-05-14T10:15:00+00:00",
+            "actual_runway": "2025-05-14T10:15:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "103",
+            "iata": "UT103",
+            "icao": "UTA103",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 3,
+            "scheduled": "2025-05-14T04:20:00+00:00",
+            "estimated": "2025-05-14T04:20:00+00:00",
+            "actual": "2025-05-14T04:22:00+00:00",
+            "estimated_runway": "2025-05-14T04:22:00+00:00",
+            "actual_runway": "2025-05-14T04:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T06:20:00+00:00",
+            "delay": 12,
+            "estimated": "2025-05-14T06:29:00+00:00",
+            "actual": "2025-05-14T06:32:00+00:00",
+            "estimated_runway": "2025-05-14T06:32:00+00:00",
+            "actual_runway": "2025-05-14T06:32:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "1405",
+            "iata": "UT1405",
+            "icao": "UTA1405",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "23",
+            "delay": 11,
+            "scheduled": "2025-05-14T09:10:00+00:00",
+            "estimated": "2025-05-14T09:10:00+00:00",
+            "actual": "2025-05-14T09:21:00+00:00",
+            "estimated_runway": "2025-05-14T09:21:00+00:00",
+            "actual_runway": "2025-05-14T09:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T13:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T13:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "1135",
+            "iata": "S71135",
+            "icao": "SBI1135",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73402",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151EBA"
+        },
+        "live": {
+            "updated": "2025-05-14T08:11:07+00:00",
+            "latitude": 54.9106,
+            "longitude": 55.7548,
+            "altitude": 1897.38,
+            "direction": 213,
+            "speed_horizontal": 401.884,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Nadym",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NYM",
+            "icao": "USMM",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T10:40:00+00:00",
+            "estimated": "2025-05-14T10:40:00+00:00",
+            "actual": "2025-05-14T10:40:00+00:00",
+            "estimated_runway": "2025-05-14T10:40:00+00:00",
+            "actual_runway": "2025-05-14T10:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T13:00:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T12:57:00+00:00",
+            "actual": "2025-05-14T12:53:00+00:00",
+            "estimated_runway": "2025-05-14T12:53:00+00:00",
+            "actual_runway": "2025-05-14T12:53:00+00:00"
+        },
+        "airline": {
+            "name": "Yamal Airlines",
+            "iata": "YC",
+            "icao": "LLM"
+        },
+        "flight": {
+            "number": "248",
+            "iata": "YC248",
+            "icao": "LLM248",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89091",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C03"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "120",
+            "delay": 9,
+            "scheduled": "2025-05-14T09:20:00+00:00",
+            "estimated": "2025-05-14T09:20:00+00:00",
+            "actual": "2025-05-14T09:29:00+00:00",
+            "estimated_runway": "2025-05-14T09:29:00+00:00",
+            "actual_runway": "2025-05-14T09:29:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B6",
+            "scheduled": "2025-05-14T13:35:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T13:15:00+00:00",
+            "actual": "2025-05-14T13:18:00+00:00",
+            "estimated_runway": "2025-05-14T13:18:00+00:00",
+            "actual_runway": "2025-05-14T13:18:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1230",
+            "iata": "SU1230",
+            "icao": "AFL1230",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73764",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "152024"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "109",
+            "delay": 12,
+            "scheduled": "2025-05-14T11:40:00+00:00",
+            "estimated": "2025-05-14T11:40:00+00:00",
+            "actual": "2025-05-14T11:52:00+00:00",
+            "estimated_runway": "2025-05-14T11:52:00+00:00",
+            "actual_runway": "2025-05-14T11:52:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B5",
+            "scheduled": "2025-05-14T15:50:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T15:37:00+00:00",
+            "actual": "2025-05-14T15:34:00+00:00",
+            "estimated_runway": "2025-05-14T15:34:00+00:00",
+            "actual_runway": "2025-05-14T15:34:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1234",
+            "iata": "SU1234",
+            "icao": "AFL1234",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73168",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151DD0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T19:00:00+00:00",
+            "estimated": "2025-05-14T19:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T23:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "6503",
+            "iata": "DP6503",
+            "icao": "PBD6503",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Nizhnevartovsk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NJC",
+            "icao": "USNN",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T20:25:00+00:00",
+            "estimated": "2025-05-14T20:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T22:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "152",
+            "iata": "UT152",
+            "icao": "UTA152",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": "236",
+            "delay": null,
+            "scheduled": "2025-05-14T18:50:00+00:00",
+            "estimated": "2025-05-14T18:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-15T01:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwind Airlines",
+            "iata": "2S",
+            "icao": "STW"
+        },
+        "flight": {
+            "number": "305",
+            "iata": "2S305",
+            "icao": "STW305",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Nizhniy Novgorod",
+            "timezone": "Europe/Moscow",
+            "iata": "GOJ",
+            "icao": "UWGG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T03:15:00+00:00",
+            "estimated": "2025-05-14T03:15:00+00:00",
+            "actual": "2025-05-14T03:15:00+00:00",
+            "estimated_runway": "2025-05-14T03:15:00+00:00",
+            "actual_runway": "2025-05-14T03:15:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T06:45:00+00:00",
+            "delay": 18,
+            "estimated": "2025-05-14T07:03:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pegas Fly",
+            "iata": "IK",
+            "icao": "KAR"
+        },
+        "flight": {
+            "number": "829",
+            "iata": "IK829",
+            "icao": "KAR829",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T01:30:00+00:00",
+            "estimated": "2025-05-14T01:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T06:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "8077",
+            "iata": "5N8077",
+            "icao": "AUL8077",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Mineralnye Vodyj",
+            "timezone": "Europe/Moscow",
+            "iata": "MRV",
+            "icao": "URMM",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T00:45:00+00:00",
+            "estimated": "2025-05-14T00:45:00+00:00",
+            "actual": "2025-05-14T00:45:00+00:00",
+            "estimated_runway": "2025-05-14T00:45:00+00:00",
+            "actual_runway": "2025-05-14T00:45:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T05:40:00+00:00",
+            "delay": 54,
+            "estimated": "2025-05-14T06:34:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        },
+        "flight": {
+            "number": "6021",
+            "iata": "A46021",
+            "icao": "AZO6021",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89139",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C33"
+        },
+        "live": {
+            "updated": "2025-05-14T01:31:05+00:00",
+            "latitude": 54.5973,
+            "longitude": 55.1045,
+            "altitude": 5699.76,
+            "direction": 89,
+            "speed_horizontal": 635.236,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-14",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Nizhniy Novgorod",
+            "timezone": "Europe/Moscow",
+            "iata": "GOJ",
+            "icao": "UWGG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-14T03:15:00+00:00",
+            "estimated": "2025-05-14T03:15:00+00:00",
+            "actual": "2025-05-14T03:15:00+00:00",
+            "estimated_runway": "2025-05-14T03:15:00+00:00",
+            "actual_runway": "2025-05-14T03:15:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T06:45:00+00:00",
+            "delay": 18,
+            "estimated": "2025-05-14T07:03:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "829",
+            "iata": "N4829",
+            "icao": "NWS829",
+            "codeshared": {
+                "airline_name": "pegas fly",
+                "airline_iata": "ik",
+                "airline_icao": "kar",
+                "flight_number": "829",
+                "flight_iata": "ik829",
+                "flight_icao": "kar829"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Mineralnye Vodyj",
+            "timezone": "Europe/Moscow",
+            "iata": "MRV",
+            "icao": "URMM",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T00:25:00+00:00",
+            "estimated": "2025-05-13T00:25:00+00:00",
+            "actual": "2025-05-13T00:25:00+00:00",
+            "estimated_runway": "2025-05-13T00:25:00+00:00",
+            "actual_runway": "2025-05-13T00:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T05:10:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T05:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        },
+        "flight": {
+            "number": "6021",
+            "iata": "A46021",
+            "icao": "AZO6021",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89139",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C33"
+        },
+        "live": {
+            "updated": "2025-05-14T01:31:05+00:00",
+            "latitude": 54.5973,
+            "longitude": 55.1045,
+            "altitude": 5699.76,
+            "direction": 89,
+            "speed_horizontal": 635.236,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Koltsovo International",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SVX",
+            "icao": "USSS",
+            "terminal": null,
+            "gate": "51",
+            "delay": null,
+            "scheduled": "2025-05-13T19:15:00+00:00",
+            "estimated": "2025-05-13T19:15:00+00:00",
+            "actual": "2025-05-13T19:15:00+00:00",
+            "estimated_runway": "2025-05-13T19:15:00+00:00",
+            "actual_runway": "2025-05-13T19:15:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T20:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T20:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "1105",
+            "iata": "UT1105",
+            "icao": "UTA1105",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-67685",
+            "iata": "AT75",
+            "icao": "AT75",
+            "icao24": "150865"
+        },
+        "live": {
+            "updated": "2025-05-13T15:25:26+00:00",
+            "latitude": 54.7389,
+            "longitude": 56.5782,
+            "altitude": 6096,
+            "direction": 238,
+            "speed_horizontal": 420.404,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 2,
+            "scheduled": "2025-05-13T20:25:00+00:00",
+            "estimated": "2025-05-13T20:25:00+00:00",
+            "actual": "2025-05-13T20:26:00+00:00",
+            "estimated_runway": "2025-05-13T20:26:00+00:00",
+            "actual_runway": "2025-05-13T20:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T23:00:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T22:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6428",
+            "iata": "UT6428",
+            "icao": "UTA6428",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73065",
+            "iata": "B734",
+            "icao": "B734",
+            "icao24": "151D69"
+        },
+        "live": {
+            "updated": "2025-05-13T16:30:53+00:00",
+            "latitude": 57.7392,
+            "longitude": 62.7729,
+            "altitude": 10370.8,
+            "direction": 230,
+            "speed_horizontal": 705.612,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "23",
+            "delay": 7,
+            "scheduled": "2025-05-13T16:50:00+00:00",
+            "estimated": "2025-05-13T16:50:00+00:00",
+            "actual": "2025-05-13T16:56:00+00:00",
+            "estimated_runway": "2025-05-13T16:56:00+00:00",
+            "actual_runway": "2025-05-13T16:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T20:55:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T20:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "1137",
+            "iata": "S71137",
+            "icao": "SBI1137",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73183",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151DDF"
+        },
+        "live": {
+            "updated": "2025-05-14T14:56:27+00:00",
+            "latitude": 55.6026,
+            "longitude": 48.5843,
+            "altitude": 10668,
+            "direction": 113,
+            "speed_horizontal": 748.208,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "cancelled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T16:40:00+00:00",
+            "estimated": "2025-05-13T16:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T21:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6413",
+            "iata": "FV6413",
+            "icao": "SDM6413",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dushanbe",
+            "timezone": "Asia/Dushanbe",
+            "iata": "DYU",
+            "icao": "UTDD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T03:00:00+00:00",
+            "estimated": "2025-05-13T03:00:00+00:00",
+            "actual": "2025-05-13T02:57:00+00:00",
+            "estimated_runway": "2025-05-13T02:57:00+00:00",
+            "actual_runway": "2025-05-13T02:57:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T06:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T05:45:00+00:00",
+            "actual": "2025-05-13T05:42:00+00:00",
+            "estimated_runway": "2025-05-13T05:42:00+00:00",
+            "actual_runway": "2025-05-13T05:42:00+00:00"
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "iata": "U6",
+            "icao": "SVR"
+        },
+        "flight": {
+            "number": "2916",
+            "iata": "U62916",
+            "icao": "SVR2916",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73809",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "152051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "108",
+            "delay": 7,
+            "scheduled": "2025-05-13T11:40:00+00:00",
+            "estimated": "2025-05-13T11:40:00+00:00",
+            "actual": "2025-05-13T11:46:00+00:00",
+            "estimated_runway": "2025-05-13T11:46:00+00:00",
+            "actual_runway": "2025-05-13T11:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B2",
+            "scheduled": "2025-05-13T15:50:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T15:35:00+00:00",
+            "actual": "2025-05-13T15:30:00+00:00",
+            "estimated_runway": "2025-05-13T15:30:00+00:00",
+            "actual_runway": "2025-05-13T15:30:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1234",
+            "iata": "SU1234",
+            "icao": "AFL1234",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73168",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151DD0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Khanty-Mansiysk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "HMA",
+            "icao": "USHH",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T04:05:00+00:00",
+            "estimated": "2025-05-13T04:05:00+00:00",
+            "actual": "2025-05-13T04:04:00+00:00",
+            "estimated_runway": "2025-05-13T04:04:00+00:00",
+            "actual_runway": "2025-05-13T04:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T06:05:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T05:49:00+00:00",
+            "actual": "2025-05-13T05:49:00+00:00",
+            "estimated_runway": "2025-05-13T05:49:00+00:00",
+            "actual_runway": "2025-05-13T05:49:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6496",
+            "iata": "UT6496",
+            "icao": "UTA6496",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73068",
+            "iata": "B734",
+            "icao": "B734",
+            "icao24": "151D6C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 4,
+            "scheduled": "2025-05-13T02:45:00+00:00",
+            "estimated": "2025-05-13T02:45:00+00:00",
+            "actual": "2025-05-13T02:48:00+00:00",
+            "estimated_runway": "2025-05-13T02:48:00+00:00",
+            "actual_runway": "2025-05-13T02:48:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T04:45:00+00:00",
+            "delay": 7,
+            "estimated": "2025-05-13T04:53:00+00:00",
+            "actual": "2025-05-13T04:52:00+00:00",
+            "estimated_runway": "2025-05-13T04:52:00+00:00",
+            "actual_runway": "2025-05-13T04:52:00+00:00"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "222",
+            "iata": "IO222",
+            "icao": "IAE222",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89077",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "120",
+            "delay": 9,
+            "scheduled": "2025-05-13T12:55:00+00:00",
+            "estimated": "2025-05-13T12:55:00+00:00",
+            "actual": "2025-05-13T13:04:00+00:00",
+            "estimated_runway": "2025-05-13T13:04:00+00:00",
+            "actual_runway": "2025-05-13T13:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B5",
+            "scheduled": "2025-05-13T17:15:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T16:48:00+00:00",
+            "actual": "2025-05-13T16:38:00+00:00",
+            "estimated_runway": "2025-05-13T16:38:00+00:00",
+            "actual_runway": "2025-05-13T16:38:00+00:00"
+        },
+        "airline": {
+            "name": "Rossiya Airlines",
+            "iata": "FV",
+            "icao": "SDM"
+        },
+        "flight": {
+            "number": "6535",
+            "iata": "FV6535",
+            "icao": "SDM6535",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": "226",
+            "delay": 12,
+            "scheduled": "2025-05-13T22:00:00+00:00",
+            "estimated": "2025-05-13T22:00:00+00:00",
+            "actual": "2025-05-13T22:11:00+00:00",
+            "estimated_runway": "2025-05-13T22:11:00+00:00",
+            "actual_runway": "2025-05-13T22:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T04:25:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-14T04:04:00+00:00",
+            "actual": "2025-05-14T04:08:00+00:00",
+            "estimated_runway": "2025-05-14T04:08:00+00:00",
+            "actual_runway": "2025-05-14T04:08:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "759",
+            "iata": "SU759",
+            "icao": "AFL759",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Salekhard",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SLY",
+            "icao": "USDD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T16:40:00+00:00",
+            "estimated": "2025-05-13T16:40:00+00:00",
+            "actual": "2025-05-13T16:40:00+00:00",
+            "estimated_runway": "2025-05-13T16:40:00+00:00",
+            "actual_runway": "2025-05-13T16:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T19:10:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T18:59:00+00:00",
+            "actual": "2025-05-13T18:53:00+00:00",
+            "estimated_runway": "2025-05-13T18:53:00+00:00",
+            "actual_runway": "2025-05-13T18:53:00+00:00"
+        },
+        "airline": {
+            "name": "Yamal Airlines",
+            "iata": "YC",
+            "icao": "LLM"
+        },
+        "flight": {
+            "number": "437",
+            "iata": "YC437",
+            "icao": "LLM437",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89073",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "119",
+            "delay": 15,
+            "scheduled": "2025-05-13T15:50:00+00:00",
+            "estimated": "2025-05-13T15:50:00+00:00",
+            "actual": "2025-05-13T16:05:00+00:00",
+            "estimated_runway": "2025-05-13T16:05:00+00:00",
+            "actual_runway": "2025-05-13T16:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B1",
+            "scheduled": "2025-05-13T19:55:00+00:00",
+            "delay": 2,
+            "estimated": "2025-05-13T19:53:00+00:00",
+            "actual": "2025-05-13T19:57:00+00:00",
+            "estimated_runway": "2025-05-13T19:57:00+00:00",
+            "actual_runway": "2025-05-13T19:57:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1258",
+            "iata": "SU1258",
+            "icao": "AFL1258",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73768",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "152028"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "106",
+            "delay": 10,
+            "scheduled": "2025-05-13T14:30:00+00:00",
+            "estimated": "2025-05-13T14:30:00+00:00",
+            "actual": "2025-05-13T14:39:00+00:00",
+            "estimated_runway": "2025-05-13T14:39:00+00:00",
+            "actual_runway": "2025-05-13T14:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B3",
+            "scheduled": "2025-05-13T18:35:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T18:24:00+00:00",
+            "actual": "2025-05-13T18:18:00+00:00",
+            "estimated_runway": "2025-05-13T18:18:00+00:00",
+            "actual_runway": "2025-05-13T18:18:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1232",
+            "iata": "SU1232",
+            "icao": "AFL1232",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73171",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151DD3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Novy Urengoy",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NUX",
+            "icao": "USMU",
+            "terminal": null,
+            "gate": null,
+            "delay": 4,
+            "scheduled": "2025-05-13T16:15:00+00:00",
+            "estimated": "2025-05-13T16:15:00+00:00",
+            "actual": "2025-05-13T16:19:00+00:00",
+            "estimated_runway": "2025-05-13T16:19:00+00:00",
+            "actual_runway": "2025-05-13T16:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T19:05:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T18:54:00+00:00",
+            "actual": "2025-05-13T18:48:00+00:00",
+            "estimated_runway": "2025-05-13T18:48:00+00:00",
+            "actual_runway": "2025-05-13T18:48:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "186",
+            "iata": "UT186",
+            "icao": "UTA186",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73486",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151F0E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Novy Urengoy",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NUX",
+            "icao": "USMU",
+            "terminal": null,
+            "gate": null,
+            "delay": 19,
+            "scheduled": "2025-05-13T10:20:00+00:00",
+            "estimated": "2025-05-13T10:20:00+00:00",
+            "actual": "2025-05-13T10:39:00+00:00",
+            "estimated_runway": "2025-05-13T10:39:00+00:00",
+            "actual_runway": "2025-05-13T10:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T12:50:00+00:00",
+            "delay": 27,
+            "estimated": "2025-05-13T13:12:00+00:00",
+            "actual": "2025-05-13T13:17:00+00:00",
+            "estimated_runway": "2025-05-13T13:17:00+00:00",
+            "actual_runway": "2025-05-13T13:17:00+00:00"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "218",
+            "iata": "IO218",
+            "icao": "IAE218",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89077",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Khudzhand",
+            "timezone": "Asia/Dushanbe",
+            "iata": "LBD",
+            "icao": "UTDL",
+            "terminal": null,
+            "gate": null,
+            "delay": 20,
+            "scheduled": "2025-05-13T09:45:00+00:00",
+            "estimated": "2025-05-13T09:45:00+00:00",
+            "actual": "2025-05-13T10:05:00+00:00",
+            "estimated_runway": "2025-05-13T10:05:00+00:00",
+            "actual_runway": "2025-05-13T10:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T12:45:00+00:00",
+            "delay": 1,
+            "estimated": "2025-05-13T12:41:00+00:00",
+            "actual": "2025-05-13T12:46:00+00:00",
+            "estimated_runway": "2025-05-13T12:46:00+00:00",
+            "actual_runway": "2025-05-13T12:46:00+00:00"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "1426",
+            "iata": "N41426",
+            "icao": "NWS1426",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73271",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "151E37"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Tashkent International",
+            "timezone": "Asia/Tashkent",
+            "iata": "TAS",
+            "icao": "UTTT",
+            "terminal": "2",
+            "gate": null,
+            "delay": 5,
+            "scheduled": "2025-05-13T07:30:00+00:00",
+            "estimated": "2025-05-13T07:30:00+00:00",
+            "actual": "2025-05-13T07:34:00+00:00",
+            "estimated_runway": "2025-05-13T07:34:00+00:00",
+            "actual_runway": "2025-05-13T07:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T10:03:00+00:00",
+            "actual": "2025-05-13T10:03:00+00:00",
+            "estimated_runway": "2025-05-13T10:03:00+00:00",
+            "actual_runway": "2025-05-13T10:03:00+00:00"
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "4336",
+            "iata": "S74336",
+            "icao": "SBI4336",
+            "codeshared": {
+                "airline_name": "uzbekistan airways",
+                "airline_iata": "hy",
+                "airline_icao": "uzb",
+                "flight_number": "9657",
+                "flight_iata": "hy9657",
+                "flight_icao": "uzb9657"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Tashkent International",
+            "timezone": "Asia/Tashkent",
+            "iata": "TAS",
+            "icao": "UTTT",
+            "terminal": "2",
+            "gate": null,
+            "delay": 5,
+            "scheduled": "2025-05-13T07:30:00+00:00",
+            "estimated": "2025-05-13T07:30:00+00:00",
+            "actual": "2025-05-13T07:34:00+00:00",
+            "estimated_runway": "2025-05-13T07:34:00+00:00",
+            "actual_runway": "2025-05-13T07:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T10:03:00+00:00",
+            "actual": "2025-05-13T10:03:00+00:00",
+            "estimated_runway": "2025-05-13T10:03:00+00:00",
+            "actual_runway": "2025-05-13T10:03:00+00:00"
+        },
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        },
+        "flight": {
+            "number": "9657",
+            "iata": "HY9657",
+            "icao": "UZB9657",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "UK32027",
+            "iata": "A20N",
+            "icao": "A20N",
+            "icao24": "507C83"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 4,
+            "scheduled": "2025-05-13T08:05:00+00:00",
+            "estimated": "2025-05-13T08:05:00+00:00",
+            "actual": "2025-05-13T08:09:00+00:00",
+            "estimated_runway": "2025-05-13T08:09:00+00:00",
+            "actual_runway": "2025-05-13T08:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T10:25:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T10:11:00+00:00",
+            "actual": "2025-05-13T10:11:00+00:00",
+            "estimated_runway": "2025-05-13T10:11:00+00:00",
+            "actual_runway": "2025-05-13T10:11:00+00:00"
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "103",
+            "iata": "UT103",
+            "icao": "UTA103",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73486",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151F0E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "104",
+            "delay": 1,
+            "scheduled": "2025-05-13T06:40:00+00:00",
+            "estimated": "2025-05-13T06:40:00+00:00",
+            "actual": "2025-05-13T06:40:00+00:00",
+            "estimated_runway": "2025-05-13T06:40:00+00:00",
+            "actual_runway": "2025-05-13T06:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B2",
+            "scheduled": "2025-05-13T10:45:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T10:39:00+00:00",
+            "actual": "2025-05-13T10:16:00+00:00",
+            "estimated_runway": "2025-05-13T10:16:00+00:00",
+            "actual_runway": "2025-05-13T10:16:00+00:00"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1262",
+            "iata": "SU1262",
+            "icao": "AFL1262",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73773",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "15202D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Norilsk",
+            "timezone": "Asia/Krasnoyarsk",
+            "iata": "NSK",
+            "icao": "UOOO",
+            "terminal": null,
+            "gate": null,
+            "delay": 12,
+            "scheduled": "2025-05-13T11:15:00+00:00",
+            "estimated": "2025-05-13T11:15:00+00:00",
+            "actual": "2025-05-13T11:26:00+00:00",
+            "estimated_runway": "2025-05-13T11:26:00+00:00",
+            "actual_runway": "2025-05-13T11:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T13:00:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T12:39:00+00:00",
+            "actual": "2025-05-13T12:40:00+00:00",
+            "estimated_runway": "2025-05-13T12:40:00+00:00",
+            "actual_runway": "2025-05-13T12:40:00+00:00"
+        },
+        "airline": {
+            "name": "NordStar Airlines",
+            "iata": "Y7",
+            "icao": "TYA"
+        },
+        "flight": {
+            "number": "911",
+            "iata": "Y7911",
+            "icao": "TYA911",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73257",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151E29"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Surgut",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SGC",
+            "icao": "USRR",
+            "terminal": null,
+            "gate": null,
+            "delay": 1,
+            "scheduled": "2025-05-13T11:00:00+00:00",
+            "estimated": "2025-05-13T11:00:00+00:00",
+            "actual": "2025-05-13T11:01:00+00:00",
+            "estimated_runway": "2025-05-13T11:01:00+00:00",
+            "actual_runway": "2025-05-13T11:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T13:10:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T13:02:00+00:00",
+            "actual": "2025-05-13T13:02:00+00:00",
+            "estimated_runway": "2025-05-13T13:02:00+00:00",
+            "actual_runway": "2025-05-13T13:02:00+00:00"
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "iata": "U6",
+            "icao": "SVR"
+        },
+        "flight": {
+            "number": "9072",
+            "iata": "U69072",
+            "icao": "SVR9072",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73792",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "152040"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T09:55:00+00:00",
+            "estimated": "2025-05-13T09:55:00+00:00",
+            "actual": "2025-05-13T09:10:00+00:00",
+            "estimated_runway": "2025-05-13T09:10:00+00:00",
+            "actual_runway": "2025-05-13T09:10:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T15:10:00+00:00",
+            "delay": null,
+            "estimated": "2025-05-13T13:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "343",
+            "iata": "DP343",
+            "icao": "PBD343",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73296",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151E50"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Tolmachevo",
+            "timezone": "Asia/Novosibirsk",
+            "iata": "OVB",
+            "icao": "UNNT",
+            "terminal": "C",
+            "gate": "1",
+            "delay": 6,
+            "scheduled": "2025-05-13T14:05:00+00:00",
+            "estimated": "2025-05-13T14:05:00+00:00",
+            "actual": "2025-05-13T14:10:00+00:00",
+            "estimated_runway": "2025-05-13T14:10:00+00:00",
+            "actual_runway": "2025-05-13T14:10:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T14:50:00+00:00",
+            "delay": 6,
+            "estimated": "2025-05-13T14:50:00+00:00",
+            "actual": "2025-05-13T14:56:00+00:00",
+            "estimated_runway": "2025-05-13T14:56:00+00:00",
+            "actual_runway": "2025-05-13T14:56:00+00:00"
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "5045",
+            "iata": "S75045",
+            "icao": "SBI5045",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73437",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "151EDD"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Igarka",
+            "timezone": "Asia/Krasnoyarsk",
+            "iata": "IAA",
+            "icao": "UOII",
+            "terminal": null,
+            "gate": null,
+            "delay": 75,
+            "scheduled": "2025-05-13T18:45:00+00:00",
+            "estimated": "2025-05-13T18:45:00+00:00",
+            "actual": "2025-05-13T20:00:00+00:00",
+            "estimated_runway": "2025-05-13T20:00:00+00:00",
+            "actual_runway": "2025-05-13T20:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T20:05:00+00:00",
+            "delay": 74,
+            "estimated": "2025-05-13T21:19:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6408",
+            "iata": "UT6408",
+            "icao": "UTA6408",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73068",
+            "iata": "B734",
+            "icao": "B734",
+            "icao24": "151D6C"
+        },
+        "live": {
+            "updated": "2025-05-13T16:26:05+00:00",
+            "latitude": 54.5609,
+            "longitude": 55.8881,
+            "altitude": 0,
+            "direction": 56,
+            "speed_horizontal": 24.076,
+            "speed_vertical": 0,
+            "is_ground": true
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T01:45:00+00:00",
+            "estimated": "2025-05-13T01:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T06:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "591",
+            "iata": "5N591",
+            "icao": "AUL591",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Makhachkala",
+            "timezone": "Europe/Moscow",
+            "iata": "MCX",
+            "icao": "URML",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T19:20:00+00:00",
+            "estimated": "2025-05-13T19:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T23:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        },
+        "flight": {
+            "number": "844",
+            "iata": "N4844",
+            "icao": "NWS844",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T01:45:00+00:00",
+            "estimated": "2025-05-13T01:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T06:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "807",
+            "iata": "5N807",
+            "icao": "AUL807",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Nizhnevartovsk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "NJC",
+            "icao": "USNN",
+            "terminal": null,
+            "gate": null,
+            "delay": 1,
+            "scheduled": "2025-05-13T19:50:00+00:00",
+            "estimated": "2025-05-13T19:50:00+00:00",
+            "actual": "2025-05-13T19:51:00+00:00",
+            "estimated_runway": "2025-05-13T19:51:00+00:00",
+            "actual_runway": "2025-05-13T19:51:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T21:45:00+00:00",
+            "delay": 16,
+            "estimated": "2025-05-13T22:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        },
+        "flight": {
+            "number": "206",
+            "iata": "IO206",
+            "icao": "IAE206",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89077",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155BF5"
+        },
+        "live": {
+            "updated": "2025-05-13T16:30:53+00:00",
+            "latitude": 55.9757,
+            "longitude": 59.3206,
+            "altitude": 10363.2,
+            "direction": 244,
+            "speed_horizontal": 688.944,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Pulkovo",
+            "timezone": "Europe/Moscow",
+            "iata": "LED",
+            "icao": "ULLI",
+            "terminal": "1",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T18:00:00+00:00",
+            "estimated": "2025-05-13T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T22:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Smartavia",
+            "iata": "5N",
+            "icao": "AUL"
+        },
+        "flight": {
+            "number": "593",
+            "iata": "5N593",
+            "icao": "AUL593",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "B",
+            "gate": "107",
+            "delay": null,
+            "scheduled": "2025-05-13T20:50:00+00:00",
+            "estimated": "2025-05-13T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "B5",
+            "scheduled": "2025-05-14T01:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        },
+        "flight": {
+            "number": "1260",
+            "iata": "SU1260",
+            "icao": "AFL1260",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Khanty-Mansiysk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "HMA",
+            "icao": "USHH",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T21:40:00+00:00",
+            "estimated": "2025-05-13T21:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T23:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "6414",
+            "iata": "UT6414",
+            "icao": "UTA6414",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Antalya",
+            "timezone": "Europe/Istanbul",
+            "iata": "AYT",
+            "icao": "LTAI",
+            "terminal": "2",
+            "gate": "247",
+            "delay": null,
+            "scheduled": "2025-05-13T18:50:00+00:00",
+            "estimated": "2025-05-13T18:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-14T01:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwind Airlines",
+            "iata": "2S",
+            "icao": "STW"
+        },
+        "flight": {
+            "number": "305",
+            "iata": "2S305",
+            "icao": "STW305",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "TC-GRA",
+            "iata": "A332",
+            "icao": "A332",
+            "icao24": "4B9E41"
+        },
+        "live": {
+            "updated": "2025-05-13T16:30:33+00:00",
+            "latitude": 37.4123,
+            "longitude": 33.829,
+            "altitude": 10858.5,
+            "direction": 72,
+            "speed_horizontal": 885.256,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Koltsovo International",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "SVX",
+            "icao": "USSS",
+            "terminal": null,
+            "gate": "40",
+            "delay": 6,
+            "scheduled": "2025-05-13T20:15:00+00:00",
+            "estimated": "2025-05-13T20:15:00+00:00",
+            "actual": "2025-05-13T20:21:00+00:00",
+            "estimated_runway": "2025-05-13T20:21:00+00:00",
+            "actual_runway": "2025-05-13T20:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T21:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        },
+        "flight": {
+            "number": "1025",
+            "iata": "WZ1025",
+            "icao": "RWZ1025",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-89157",
+            "iata": "SU95",
+            "icao": "SU95",
+            "icao24": "155C45"
+        },
+        "live": {
+            "updated": "2025-05-13T16:25:24+00:00",
+            "latitude": 54.5644,
+            "longitude": 55.8817,
+            "altitude": 0,
+            "direction": 61,
+            "speed_horizontal": 16.668,
+            "speed_vertical": 0,
+            "is_ground": true
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Khanty-Mansiysk",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "HMA",
+            "icao": "USHH",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-05-13T11:00:00+00:00",
+            "estimated": "2025-05-13T11:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T14:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UTair Aviation",
+            "iata": "UT",
+            "icao": "UTA"
+        },
+        "flight": {
+            "number": "303",
+            "iata": "UT303",
+            "icao": "UTA303",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Domodedovo",
+            "timezone": "Europe/Moscow",
+            "iata": "DME",
+            "icao": "UUDD",
+            "terminal": null,
+            "gate": "23",
+            "delay": 72,
+            "scheduled": "2025-05-13T09:10:00+00:00",
+            "estimated": "2025-05-13T09:10:00+00:00",
+            "actual": "2025-05-13T10:22:00+00:00",
+            "estimated_runway": "2025-05-13T10:22:00+00:00",
+            "actual_runway": "2025-05-13T10:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-05-13T13:15:00+00:00",
+            "delay": 46,
+            "estimated": "2025-05-13T14:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "S7 Airlines",
+            "iata": "S7",
+            "icao": "SBI"
+        },
+        "flight": {
+            "number": "1135",
+            "iata": "S71135",
+            "icao": "SBI1135",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73402",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "151EBA"
+        },
+        "live": {
+            "updated": "2025-05-14T08:11:07+00:00",
+            "latitude": 54.9106,
+            "longitude": 55.7548,
+            "altitude": 1897.38,
+            "direction": 213,
+            "speed_horizontal": 401.884,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2025-05-13",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Sheremetyevo International",
+            "timezone": "Europe/Moscow",
+            "iata": "SVO",
+            "icao": "UUEE",
+            "terminal": "D",
+            "gate": "1",
+            "delay": 10,
+            "scheduled": "2025-05-13T19:00:00+00:00",
+            "estimated": "2025-05-13T19:00:00+00:00",
+            "actual": "2025-05-13T19:10:00+00:00",
+            "estimated_runway": "2025-05-13T19:10:00+00:00",
+            "actual_runway": "2025-05-13T19:10:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ufa International Airport",
+            "timezone": "Asia/Yekaterinburg",
+            "iata": "UFA",
+            "icao": "UWUU",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "D3",
+            "scheduled": "2025-05-13T23:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        },
+        "flight": {
+            "number": "6503",
+            "iata": "DP6503",
+            "icao": "PBD6503",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "RA-73236",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "151E14"
+        },
+        "live": {
+            "updated": "2025-05-13T16:32:38+00:00",
+            "latitude": 56.0596,
+            "longitude": 40.06,
+            "altitude": 11887.2,
+            "direction": 85,
+            "speed_horizontal": 877.848,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    }
+]
