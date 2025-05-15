@@ -25,5 +25,7 @@ if response.status_code == 200:
 
 arrive= api.get_arrived_flights(data)
 delay= api.get_delayed_flights(data)
+info = api.get_flight_details('FV6535')
 
-print('\n',delay)
+
+print(info)  

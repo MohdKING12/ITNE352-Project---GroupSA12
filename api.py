@@ -11,6 +11,7 @@ def save_to_file(data, filename='group_SA12.json'):
 
 # Fetch flight data for an airport
 def fetch_flights_by_airport(icao_code):
+   
     params = {
         'access_key': API_KEY,
         'arr_icao': icao_code,
@@ -18,11 +19,14 @@ def fetch_flights_by_airport(icao_code):
     }
 
     response = requests.get(BASE_URL, params=params)
+   
     if response.status_code == 200:
         data = response.json().get('data', [])
         save_to_file(data)
         return data
+   
     else:
+   
         print("Error:", response.status_code)
         return []
 
@@ -35,7 +39,9 @@ def get_arrived_flights(data):
             arrived.append(flight)
 
     results = []
+   
     for flight in arrived:
+   
         results.append({
             'Flight Code': flight['flight']['iata'],
             'Departure Airport': flight['departure']['airport'],
@@ -43,6 +49,7 @@ def get_arrived_flights(data):
             'Arrival Terminal': flight['arrival']['terminal'],
             'Arrival Gate': flight['arrival']['gate']
         })
+   
     return results
 
 # Get delayed flights
@@ -50,34 +57,42 @@ def get_delayed_flights(data):
     
     delayed = []
     for flight in data:
-        if flight.get(flight['departure']['airport']) != 'null':
-            delayed.append(flight)
+   
+        delay = flight.get('departure', {}).get('delay')
+        results = []
 
-    results = []
-    for flight in delayed:
-        results.append({
-            'Flight Code': flight['flight']['iata'],
-            'Departure Airport': flight['departure']['airport'],
-            'Scheduled Departure': flight['departure']['scheduled'],
-            'Estimated Arrival': flight['arrival']['estimated'],
-            'Delay (min)': flight['arrival']['delay'],
-            'Arrival Terminal': flight['arrival']['terminal'],
-            'Arrival Gate': flight['arrival']['gate']
-        })
+        if delay and delay > 0: # if delay is not none or null & it is > 0
+   
+            results.append({
+                'Flight Code': flight['flight']['iata'],
+                'Departure Airport': flight['departure']['airport'],
+                'Scheduled Departure': flight['departure']['scheduled'],
+                'Estimated Arrival': flight['arrival']['estimated'],
+                'Delay (min)': flight['arrival']['delay'],
+                'Arrival Terminal': flight['arrival']['terminal'],
+                'Arrival Gate': flight['arrival']['gate']
+            })
+   
     return results
 
 # Get details of a specific flight
 def get_flight_details(iata_code):
+   
     params = {
         'access_key': API_KEY,
         'flight_iata': iata_code
     }
+    
     response = requests.get(BASE_URL, params=params)
+    
     if response.status_code == 200:
         data = response.json().get('data', [])
+        
         if not data:
-            return None
+            return 'There are no data for this flight, try another flight!'
+        
         flight = data[0]
+
         return {
             'Flight Code': flight['flight']['iata'],
             'Departure Airport': flight['departure']['airport'],
