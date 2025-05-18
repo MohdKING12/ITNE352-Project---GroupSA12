@@ -13,7 +13,7 @@ def handle_client(conn, addr, all_flights):
     try:
         name = conn.recv(1024).decode()
         clients[addr] = name
-        print(f"[NEW CONNECTION] {name} connected from {addr}")
+        print(f"[NEW CONNECTION] {name} connected from {addr}\n")
 
         while True:
 
@@ -58,15 +58,15 @@ def start_server():
         icao = conn.recv(1024).decode()
         all_flights = get_flights_by_airport_code(icao)
        
-        if all_flights.lower()==no_data.lower():
-           print(all_flights)
+        if not all_flights:
+           
            continue
         
-        print(f"[INFO] Flights fetched for {icao}.\n Waiting for requests...")
+        print(f"[INFO] Flights fetched for {icao}.\nWaiting for requests...")
 
         thread = threading.Thread(target=handle_client, args=(conn, addr, all_flights))
         thread.start()
-        print(f"[ACTIVE CONNECTIONS] {threading.active_count() - 1}")
+        print(f"\n[ACTIVE CONNECTIONS] {threading.active_count() - 1}")
 
 if __name__ == "__main__":
     start_server()

@@ -1,21 +1,28 @@
 from client_module import connect_to_server, send_username, send_request
 import json
 import time 
+from api import get_flights_by_airport_code
 
 def main():
     
     print("==="*10, "Flight Info Client","==="*10)
    
     name = input("\nEnter your name: ").strip()
-    while (not name):
+    while not name:
         print("Name cannot be empty.")
         name = input("\nEnter your name: ").strip()
         
 
     icao = input("Enter ICAO code (e.g., OMDB): ").strip()
-    while (not icao):
+   
+    while not icao:
         print("ICAO cannot be empty.\n")
         icao = input("Enter ICAO code (e.g., OMDB): ").strip()
+   
+    flight = get_flights_by_airport_code(icao)
+    if not flight:
+        
+        return
 
     try:
         sock = connect_to_server()
