@@ -44,4 +44,17 @@ Not much included within script, but it is crucial. As I will illustrate later, 
 <br>
 These are all the libraries that are going to be used to run the scripts. Only request library needs to be downloaded, the other ones are built-in libraries. 
 If, for any reason, one of these libraries are not already downloaded just run this command in your command prompt followed by the library name to install it:
+
 **pip3 install** (name of the library in lowercase. [e.g. threading])
+<br><br><br>
+> Run Scripts:
+<br>
+After making sure all libraries are successfully installed, take the scripts and place them in the same folder. If any of the scripts are not inside the same folder as the rest of the scripts, then the whole system will not work, as they depend on each other.
+
+1.	Then you must run the server script first, so it will go passive and start listening for any incoming requests from clients. You can run in your code editor or using your device command prompt. **(Steps for running in command prompt are illustrated down)**
+
+2. In command prompt, you will run the interface script, where you can communicate with the server through. 
+    * First make sure to enter the folder that saved the scripts inside. Using the file explorer go to the folder location, then you can find the path at the top (Blue Circle). 
+    * Press on the empty space (Red DOT in picture) inside the location panel and copy it
+<br>
+
