@@ -73,9 +73,14 @@ After making sure all libraries are successfully installed, take the scripts and
 
 
 > Scripts Descriptions:
-1.	API script [ api.py]:
-This script includes functions that are going to be used for fetching data from the **aviation.com** API, saving data in a JSON file, and retrieve data from the file based on client prompt.
+<br>
 
+1.	**API script [ api.py]**:
+ This script includes functions that are going to be used for fetching data from the **aviation.com** API, saving data in a JSON file, and retrieve data from the file based on client prompt.
+<br>
+Here is a list with the main functions of **api.py** script, and a description of each:
+<br>
+<br>
 
 | Main Functions    | Description     |
 |-------------|--------------|
@@ -84,10 +89,85 @@ This script includes functions that are going to be used for fetching data from 
 | `get_arrived_flights(data)` |Takes the **data** of the airport, and returns list of dictionary details about flights that arrived at the airport|
 | `get_delayed_flights(data)` |Takes the **data** of the airport, and returns list of dictionary details about flights that are delayed|
 | `get_flight_details(iata_code)` |This function takes the **iata_code** of the flight, and then fetch data related to it from **aviation.com** API. It returns a dictionary of details about the flight|
-
+<br>
+ Subfunctions are imported from other libraries and used within the main functions of the script. Here is a list with the subfunctions of **api.py** script, and a description of each:
+<br><br>
 
 | Subfunction          | Description     |
 |---------------------|--------------------|
 | `json.dump(data, f, indent=4)`|This function from **json** saves the data in JSON format. I give it three parameters **data** fetched, **f** is the file name,and **indent** is the indentation inside the file to orgnize it  |
 | `requests.get(BASE_URL, params)`              |This function from **request** library sends a HTTP GET request. Takes the **BASE_URL** which is the URL of the website, and **params** it has to be predefined and contains extra information for the path like the access key of **API** and **ICAO code** |
 | `.get()`|It is a safe way to retrieve data and not raising an error or exception|
+
+
+
+
+<br><br>
+
+2. **Server script [server_module.py]**:
+ The script contains functions that will interact with **API**, **client**, and the **user interface**.
+<br>
+
+Here is a list with the main functions of **server_module.py** script, and a description of each:
+<br>
+<br>
+
+| Main Functions    | Description     |
+|-------------|--------------|
+| `handle_client(conn, addr, all_flights)` |From the name, it handles the clients requests. It takes three parameters, **conn** which is the socket of client, **addr** the client ip address, and **all_flights** the data retrieved from **API**. It sends back the details of flights for the client. |
+| `start_server()`     |Its job is to assign socket for server, and enter passive mode listening for other sockets to connect. Then it assigns each client to a thread.  | 
+
+
+
+
+<br><br>
+
+3. **Client script [client_module.py]**: 
+<br>
+The script has 3 functions that interacts with the user interface and the server.
+<br>
+
+Here is a list with the main functions of **client_module.py** script, and a description of each:
+<br>
+<br>
+
+| Main Functions    | Description     |
+|-------------|--------------|
+| `connect_to_server()` |This function only establish a socket for the client, and connect it to the server socket with predefined port and address of the server socket. |
+| `send_username(sock, name)`     |Sends the client **name** to the server to display it while communicating. This is mainly for user to monitor who sent a request to the server.   | 
+| `send_request(sock, request)` |Sends a **request** ,which is the number for the desired service, to the server and retrieve desired data |
+<br>
+
+**client_module.py** script has only one subfunction:
+<br><br>
+
+| Subfunction          | Description     |
+|---------------------|--------------------|
+| `json.loads(data)`|Return **data** as a python object. As the data is from the **JSON** filem it has to be converted into a python object (dictionary,list,string...)  |
+
+
+
+
+<br><br>
+
+4. **Interface script [interface_module.py]**:
+<br>
+The script has only 2 functions that interacts with the client and the server.
+<br>
+
+Here is a list with the main functions of **client_module.py** script, and a description of each:
+<br>
+<br>
+
+| Main Functions    | Description     |
+|-------------|--------------|
+| `main()` |The **main** function that interacts with the user directly, asking for the name, **ICAO** code, then the number of the service the user want to perform, and all other sending and recieving operations |
+| `print_response(response)`     |Print the **data** for the user to see  |
+<br>
+
+**interface_module.py** script has only one subfunction:
+<br><br>
+
+| Subfunction          | Description     |
+|---------------------|--------------------|
+| `json.loads(data)`|Return **data** as a python object. As the data is from the **JSON** file has to be converted into a python object (dictionary,list,string...)  |
