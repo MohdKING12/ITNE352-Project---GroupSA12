@@ -212,7 +212,7 @@ Finally, this project really helped me and sharpen my coding skills, and gave me
 > Acknoledgements:
 <br>
 
-At the end, I send my graciuos thanks for mu instructor **DR.Mohammed Almeer** for sharing with me and my colleagues everything he could possibly give thoughout the course.
+At the end, I send my gracious thanks for my instructor **DR.Mohammed Almeer** for sharing with me and my colleagues everything he could possibly give thoughout the course.
 
 <br><br><br>
 > Refrences:
