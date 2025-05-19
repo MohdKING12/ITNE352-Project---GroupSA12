@@ -5,12 +5,12 @@ API_KEY = '626b50b0a1b2662767b3c78113182944'
 BASE_URL = 'https://api.aviationstack.com/v1/flights'
 
 # Save fetched data to JSON
-def save_to_file(data, filename='group_SA.json'):
+def save_to_file(data, filename='group_SA12.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
 # Fetch flight data for an airport
-def get_flights_by_airport_code(icao_code):
+def get_flights_by_airport_code(icao_code): 
    
     params = {
         'access_key': API_KEY,
