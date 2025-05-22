@@ -153,17 +153,17 @@ Here is a list with the main functions of **client_module.py** script, and a des
 
 4. **Interface script [interface_module.py]**:
 <br>
-The script has only 2 functions that interacts with the client and the server.
+The script has only 1 function that interacts with the client.
 <br>
 
-Here is a list with the main functions of **client_module.py** script, and a description of each:
+Here is the main function of **client_module.py** script, and its description:
 <br>
 <br>
 
 | Main Functions    | Description     |
 |-------------|--------------|
 | `main()` |The **main** function that interacts with the user directly, asking for the name, **ICAO** code, then the number of the service the user want to perform, and all other sending and recieving operations |
-| `print_response(response)`     |Print the **data** for the user to see  |
+
 <br>
 
 **interface_module.py** script has only one subfunction:
